@@ -1,2 +1,3 @@
 # aibook
 just for learn
+we are going to use this file during this course...
